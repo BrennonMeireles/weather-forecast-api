@@ -1,10 +1,12 @@
 # weather-forecast-api 🌤️
 
-Este é um projeto desenvolvido como parte do curso no Senai, com o objetivo de entender como funciona o consumo de APIs em JavaScript. O projeto utiliza a API do OpenWeather para fornecer previsões meteorológicas simples para a cidade de São Paulo, Brasil.<br>
+Este é um projeto desenvolvido como parte do curso no Senai, com o objetivo de entender como funciona o consumo de APIs em JavaScript. O projeto utiliza a API do OpenWeather para fornecer previsões meteorológicas simples para a cidade de São Paulo, Brasil.<br><br>
 
 <div align="center">
   <img src="https://github.com/BrennonMeireles/weather-forecast-api/assets/141636246/3c4e03e8-4373-47ef-aee3-87b49b4edaac" alt="image" width="600px">
 </div>
+
+<br><br>
 
 ## Funcionalidades 🖥️
 
