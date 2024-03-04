@@ -4,6 +4,10 @@ Este é um projeto desenvolvido como parte do curso no Senai, com o objetivo de 
 
 ![temp](https://github.com/BrennonMeireles/weather-forecast-api/assets/141636246/3c4e03e8-4373-47ef-aee3-87b49b4edaac)
 
+<div align="center">
+  <img src="https://github.com/BrennonMeireles/weather-forecast-api/assets/141636246/3c4e03e8-4373-47ef-aee3-87b49b4edaac" alt="image" width="600px">
+</div>
+
 ## Funcionalidades 🖥️
 
 - Visualização da previsão do tempo atual para São Paulo.
