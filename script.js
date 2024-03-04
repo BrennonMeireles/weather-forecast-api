@@ -4,7 +4,7 @@ window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];
 
             id: 11,
             cityid: '3448439',
-            appid: '560882b102105eb17a71610a294795fb',
+            appid: 'ee694cd102f9298a0ea2302ab63a55b4',
             units: 'metric',
             containerid: 'openweathermap-widget-11',
 
